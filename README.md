@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leo
+- 👋 Hi, I’m Huatao Liu
 - 👀 I’m a student in UNSW
 - 🌱 I’m currently learning react, rust and C++
 - 💞️ I’m trying to be a good programmer
